@@ -22,7 +22,6 @@
 //  require gmaps/google
 //  require new_payment
 //= require script
-//= require bootstrap.min
 //= require jpreloader.min
 //= require jquery-1.11.2.min
 //= require jquery.counterup.min
