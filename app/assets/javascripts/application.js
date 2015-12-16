@@ -9,8 +9,18 @@
 //
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
-//
+
 //= require jquery
+
+// require jquery.turbolinks
+
 //= require jquery_ujs
-//= require turbolinks
-//= require_tree .
+//= require vide
+//= require bootstrap-sprockets
+//  require mangopay
+//= require underscore
+//  require gmaps/google
+//  require new_payment
+
+// un comment gems in gemfile to load turbolinks
+// require turbolinks
