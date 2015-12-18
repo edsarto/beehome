@@ -6,33 +6,33 @@
 
 /**
  * ORANGE
- * - basic      : #f3ae73 (243,174,115)
- * - darken 5%  : #e6a166 (230,161,102)
- * - darken 10% : #da955a (218,149,90)
+ * - basic      : #3D3B47 (243,174,115)
+ * - darken 5%  : #2C2835 (230,161,102)
+ * - darken 10% : #1E1622 (218,149,90)
  */
 
 /* BOOTSTRAP OVERRIDE */
 a {
-	color: #f3ae73;
+	color: #2D2835;
 }
 a:focus, a:hover {
-	color: #da955a;
+	color: #1E1622;
 }
 .text-primary {
-	color: #f3ae73;
+	color: #3D3B47;
 }
 a.text-primary:hover {
-	color: #da955a;
+	color: #1E1622;
 }
 .bg-primary {
-	background-color: #f3ae73;
+	background-color: #3D3B47;
 }
 a.bg-primary:hover {
-	background-color: #da955a;
+	background-color: #1E1622;
 }
 .btn-primary {
 	background-color: rgba(243,174,115,0.85);
-	border-color: #f3ae73 !important;
+	border-color: #3D3B47 !important;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -40,8 +40,8 @@ a.bg-primary:hover {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-	background-color: #e6a166;
-	border-color: #f3ae73;
+	background-color: #2C2835;
+	border-color: #3D3B47;
 }
 .btn-primary.disabled,
 .btn-primary[disabled],
@@ -61,42 +61,42 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-	background-color: #f3ae73;
+	background-color: #3D3B47;
 }
 .btn-primary .badge {
-	color: #f3ae73;
+	color: #3D3B47;
 }
 .btn-link {
-	color: #f3ae73;
+	color: #3D3B47;
 }
 .btn-link:hover,
 .btn-link:focus {
-	color: #da955a;
+	color: #1E1622;
 }
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:hover,
 .dropdown-menu > .active > a:focus {
-	background-color: #f3ae73;
+	background-color: #3D3B47;
 }
 .nav .open > a,
 .nav .open > a:hover,
 .nav .open > a:focus {
-	border-color: #f3ae73;
+	border-color: #3D3B47;
 }
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
-	background-color: #f3ae73;
+	background-color: #3D3B47;
 }
 .pagination > li > a,
 .pagination > li > span {
-	color: #f3ae73;
+	color: #3D3B47;
 }
 .pagination > li > a:hover,
 .pagination > li > span:hover,
 .pagination > li > a:focus,
 .pagination > li > span:focus {
-	color: #da955a;
+	color: #1E1622;
 }
 .pagination > .active > a,
 .pagination > .active > span,
@@ -104,132 +104,132 @@ fieldset[disabled] .btn-primary.active {
 .pagination > .active > span:hover,
 .pagination > .active > a:focus,
 .pagination > .active > span:focus {
-	background-color: #f3ae73;
-	border-color: #f3ae73;
+	background-color: #3D3B47;
+	border-color: #3D3B47;
 }
 .label-primary {
 	background-color: rgba(243,174,115,0.85);
 }
 .label-primary[href]:hover,
 .label-primary[href]:focus {
-	background-color: #e6a166;
+	background-color: #2C2835;
 }
 a.list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
-	color: #f3ae73;
+	color: #3D3B47;
 }
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
-	border-color: #f3ae73;
+	border-color: #3D3B47;
 }
 .progress-bar {
-	background-color: #f3ae73;
+	background-color: #3D3B47;
 }
 .list-group-item.active,
 .list-group-item.active:hover,
 .list-group-item.active:focus {
-	background-color: #f3ae73;
-	border-color: #f3ae73;
+	background-color: #3D3B47;
+	border-color: #3D3B47;
 }
 .panel-primary {
-	border-color: #f3ae73;
+	border-color: #3D3B47;
 }
 .panel-primary > .panel-heading {
-	background-color: #f3ae73;
-	border-color: #f3ae73;
+	background-color: #3D3B47;
+	border-color: #3D3B47;
 }
 .panel-primary > .panel-heading + .panel-collapse > .panel-body {
-	border-top-color: #f3ae73;
+	border-top-color: #3D3B47;
 }
 .panel-primary > .panel-heading .badge {
-	color: #f3ae73;
+	color: #3D3B47;
 }
 .panel-primary > .panel-footer + .panel-collapse > .panel-body {
-	border-bottom-color: #f3ae73;
+	border-bottom-color: #3D3B47;
 }
 
 /* COMMON CLASSES */
 .icon-list-icon {
-	background-color: #f3ae73;
+	background-color: #3D3B47;
 }
 /* HEADER */
 .navbar-nav > li.header-action-button > a.btn-primary:hover, .navbar-nav > li.header-action-button > a.btn-primary:focus {
-	background-color: #e6a166;
+	background-color: #2C2835;
 }
 /* SECTION COLOR */
 .section-accent {
-	background-color: #f3ae73;
+	background-color: #3D3B47;
 }
 /* BENEFITS */
 .section-accent .benefit {
-	background-color: #e6a166;
+	background-color: #2C2835;
 }
 .benefit-icon {
-	color: #f3ae73;
+	color: #3D3B47;
 }
 /* HOW IT WORKS */
 .hiw-item-icon {
-	background-color: #f3ae73;
+	background-color: #3D3B47;
 }
 .section-accent .hiw-item {
-	background-color: #f3ae73;
+	background-color: #3D3B47;
 }
 .section-accent .hiw-item.even {
-	background-color: #e6a166;
+	background-color: #2C2835;
 }
 .section-accent .hiw-item-icon {
-	border-color: #f3ae73;
+	border-color: #3D3B47;
 }
 .section-accent .hiw-item.even .hiw-item-icon {
-	border-color: #e6a166;
+	border-color: #2C2835;
 }
 /* NUMBERS */
 .numbers-item-counter {
-	color: #f3ae73;
+	color: #3D3B47;
 }
 /* PRICING TABLE */
 .section-accent .pricing-package {
-	background-color: #e6a166;
+	background-color: #2C2835;
 }
 .pricing-package-header {
-	border-bottom-color: #f3ae73;
+	border-bottom-color: #3D3B47;
 }
 .section-dark .pricing-package-header {
-	background-color: #f3ae73;
+	background-color: #3D3B47;
 }
 /* TESTIMONIAL */
 .section-accent .testimonial {
-	background-color: #e6a166;
+	background-color: #2C2835;
 }
 .testimonial-ratings {
-	color: #f3ae73;
+	color: #3D3B47;
 }
 /* PORTFOLIO */
 .portfolio-item-overlay {
-	background-color: #f3ae73;
+	background-color: #3D3B47;
 }
 /* FAQ */
 .faq-item-icon {
-	color: #f3ae73;
+	color: #3D3B47;
 }
 /* TEAM */
 .section-accent .team-member {
-	background-color: #f3ae73;
+	background-color: #3D3B47;
 }
 .section-accent .team-member.even {
-	background-color: #e6a166;
+	background-color: #2C2835;
 }
 .section-accent .team-member-icon {
-	border-color: #f3ae73;
+	border-color: #3D3B47;
 }
 /* CONTACT + MAPS */
 .section-accent .contact-maps-box {
-	background-color: #f3ae73;
+	background-color: #3D3B47;
 	background-color: rgba(243,174,115,0.9);
 }
 
 /* JPRELOADER */
 #jpreBar {
-	background-color: #f3ae73;
+	background-color: #3D3B47;
 }
