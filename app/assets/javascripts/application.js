@@ -21,6 +21,18 @@
 //= require underscore
 //  require gmaps/google
 //  require new_payment
+//= require script
+//= require jpreloader.min
+//= require jquery-1.11.2.min
+//= require jquery.counterup.min
+//= require jquery.inview.min
+//= require jquery.nav.min
+//= require jquery.stellar.min
+//= require maplace-0.1.3.min
+//= require respimage.min
+//= require responsiveslides.min
+//= require script.js
+//= require smoothscroll.min
 
 // un comment gems in gemfile to load turbolinks
 // require turbolinks
