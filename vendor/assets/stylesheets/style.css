@@ -99,7 +99,7 @@ iframe {
 	display: block;
 	height: 2px;
 	width: 80px;
-	background-color: rgba(0,0,0,0.1);
+	background-color: rgba(91,99,99,0.1);
 }
 .lead.text-center:after {
 	left: 50%;
@@ -251,7 +251,7 @@ iframe {
 	display: block;
 	height: 2px;
 	width: 120px;
-	background-color: rgba(0,0,0,0.1);
+	background-color: rgba(91,99,99,0.1);
 }
 .section-heading.text-center:after {
 	left: 50%;
@@ -456,7 +456,7 @@ iframe {
 	display: block;
 	height: 2px;
 	width: 60px;
-	background-color: rgba(0,0,0,0.1);
+	background-color: rgba(91,99,99,0.1);
 }
 .form-heading.text-center:after {
 	left: 50%;
@@ -509,7 +509,7 @@ iframe {
 	border-color: #aaa;
 }
 .section-accent .form-control {
-	border-color: rgba(0,0,0,0.05);
+	border-color: rgba(91,99,99,0.05);
 }
 .form-control:focus {
 	-webkit-box-shadow: none;
@@ -521,7 +521,7 @@ iframe {
 	border-color: #ccc;
 }
 .section-accent .form-control:focus {
-	border-color: rgba(0,0,0,0.1);
+	border-color: rgba(91,99,99,0.1);
 }
 .form-control-lg {
 	font-size: 17px;
@@ -614,7 +614,7 @@ iframe {
 }
 /* BUTTON COLOR */
 .btn-default {
-	border: 1px solid rgba(0,0,0,0.1);
+	border: 1px solid rgba(91,99,99,0.1);
 	background-color: transparent;
 	color: inherit;
 }
@@ -666,15 +666,15 @@ iframe {
 }
 .header-section,
 .header-section.navbar-inverse {
-	background-color: rgba(0,0,0,0.1);
+	background-color: rgba(91,99,99,0.1);
 	-webkit-box-shadow: 0 1px rgba(255,255,255,0.1);
 	box-shadow: 0 1px rgba(255,255,255,0.1);
 	color: #ccc;
 }
 .header-section.navbar-default {
 	background-color: #fff;
-	-webkit-box-shadow: 0 1px rgba(0,0,0,0.1);
-	box-shadow: 0 1px rgba(0,0,0,0.1);
+	-webkit-box-shadow: 0 1px rgba(91,99,99,0.1);
+	box-shadow: 0 1px rgba(91,99,99,0.1);
 	color: #444;
 }
 .header-section.floating {
@@ -684,12 +684,12 @@ iframe {
 .header-section.navbar-inverse.floating {
 	-webkit-box-shadow: none;
 	box-shadow: none;
-	background-color: rgba(0,0,0,0.85);
+	background-color: rgba(91,99,99,0.85);
 }
 .header-section.navbar-default.floating {
 	background-color: rgba(255,255,255,0.95);
-	-webkit-box-shadow: 0 0 10px rgba(0,0,0,0.1);
-	box-shadow: 0 0 10px rgba(0,0,0,0.1);
+	-webkit-box-shadow: 0 0 10px rgba(91,99,99,0.1);
+	box-shadow: 0 0 10px rgba(91,99,99,0.1);
 }
 .navbar-nav {
 	font-family: "Montserrat", sans-serif;
@@ -848,13 +848,13 @@ iframe {
 .navbar-inverse .dropdown-menu {
 	border-radius: 0;
 	border: none;
-	background-color: rgba(0,0,0,0.85);
+	background-color: rgba(91,99,99,0.85);
 	border: 1px solid rgba(255,255,255,0.1);
 	font-size: inherit;
 }
 .navbar-default .dropdown-menu {
 	background-color: #fff;
-	border: 1px solid rgba(0,0,0,0.1);
+	border: 1px solid rgba(91,99,99,0.1);
 }
 .dropdown-menu > li > a {
 	padding: 10px 20px;
@@ -873,7 +873,7 @@ iframe {
 }
 .navbar-default .dropdown-menu > li > a:hover, .navbar-default .dropdown-menu > li > a:focus {
 	color: #222;
-	background-color: rgba(0,0,0,0.1);
+	background-color: rgba(91,99,99,0.1);
 }
 
 @media ( min-width: 992px ) {
@@ -919,7 +919,7 @@ iframe {
 	}
 	.navigation,
 	.navbar-inverse .navigation {
-		background-color: rgba(0,0,0,0.95);
+		background-color: rgba(91,99,99,0.95);
 	}
 	.navbar-default .navigation {
 		background-color: rgba(255,255,255,0.95);
@@ -1001,8 +1001,8 @@ iframe {
 	height: 160px;
 	width: 100%;
 	display: block;
-	background-image: -webkit-linear-gradient(top, rgba(0,0,0,1), rgba(0,0,0,0));
-	background-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+	background-image: -webkit-linear-gradient(top, rgba(91,99,99,1), rgba(91,99,99,0));
+	background-image: linear-gradient(to bottom, rgba(91,99,99,1), rgba(91,99,99,0));
 	opacity: 0.3;
 }
 .hero-fullscreen,
@@ -1032,7 +1032,7 @@ iframe {
 	background-color: #fff;
 }
 .section-dark.hero-section form {
-	background-color: rgba(0,0,0,0.4);
+	background-color: rgba(91,99,99,0.4);
 }
 .hero-content {
 	display: table;
@@ -1271,7 +1271,7 @@ iframe {
 	display: block;
 	height: 2px;
 	width: 120px;
-	background-color: rgba(0,0,0,0.1);
+	background-color: rgba(91,99,99,0.1);
 }
 .headline-text:before {
 	top: 0;
@@ -1317,7 +1317,7 @@ iframe {
  */
 .benefit {
 	text-align: center;
-	padding: 30px;
+	padding: 15px;
 	background-color: #f6f6f6;
 	margin: 15px 0;
 }
@@ -1518,7 +1518,7 @@ iframe {
 	display: block;
 	height: 2px;
 	width: 40px;
-	background-color: rgba(0,0,0,0.1);
+	background-color: rgba(91,99,99,0.1);
 }
 .section-dark .team-member-description:after,
 .section-accent .team-member-description:after {
@@ -1680,7 +1680,7 @@ iframe {
 	padding: 10px 30px;
 	border-top-width: 1px;
 	border-top-style: solid;
-	border-top-color: rgba(0,0,0,0.05);
+	border-top-color: rgba(91,99,99,0.05);
 }
 .pricing-package-items li:first-child {
 	border-top: none;
@@ -1926,8 +1926,8 @@ iframe {
 	padding: 40px;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.9);
-	-webkit-box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-	box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+	-webkit-box-shadow: 0 2px 5px rgba(91,99,99,0.1);
+	box-shadow: 0 2px 5px rgba(91,99,99,0.1);
 }
 .section-dark .contact-maps-box {
 	background-color: #222;
